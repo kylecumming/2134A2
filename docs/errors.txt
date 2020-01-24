@@ -1,0 +1,24 @@
+Bug Report
+==========
+
+For each bug, please provide the following information:
+  - Class name
+  - Method name
+  - Test method name
+  - Message produced by the test method
+
+Example:
+Error 0:
+  Class: District
+  Method: setTimBot()
+  Test Method: setTimBot_districtNotEmpty()
+  Message: setTimBot() on non-empty district returned true
+
+Error 1:
+  Class: 
+  Method:
+  Test Method:
+  Message:
+
+
+*********** ADD AS MANY MORE AS NEEDED *******************
