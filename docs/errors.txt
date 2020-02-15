@@ -15,10 +15,20 @@ Error 0:
   Message: setTimBot() on non-empty district returned true
 
 Error 1:
-  Class: 
-  Method:
-  Test Method:
-  Message:
+  Class: TimBot
+  Method:getID()
+  Test Method:getID()
+  Message:Id can equal a value that is not between 0 and 99
+Error 2:
+  Class: TimBot
+  Method: senseDistricts()
+  Test Method: senseDistricts()
+  Message: Did not sense the required district
+Error 3:
+ Class: TimBot
+ Method: harvestSpresso()
+ test Method: harvestSpresso()
+ Message: Value exceeds the maximum of 99 
 
 
 *********** ADD AS MANY MORE AS NEEDED *******************
